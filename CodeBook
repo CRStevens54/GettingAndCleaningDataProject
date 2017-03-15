@@ -1,0 +1,23 @@
+Code Book
+
+Source Data
+
+A full description of the data used in this project can be found at:
+
+http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
+
+The source data for this project can be found here:
+https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
+
+There are 2 identifiers:
+"subject"
+"activity"
+
+The TotalData are broken down into:
+Subject (1:30) 
+Activity (Factor Values: WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING)
+
+Measurements based on 6 variables named:
+time, frequency, Accelerometer, Gyroscope, Magnitude, Body
+
+TotalData2 depicts table with mean for each subject and activity
